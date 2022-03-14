@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan Martin Ocampo
 #### Full stack developer
-![Full stack developer](![image]())
+[![MasterHead](file:///D:/Users/Usuario/Downloads/descarga.png)](your GitHub link)
 
 
 A passionate full-stack developer student from Argentina. I am focused on learning new technlogies and expanding my programming knowledge everyday. Welcome!
