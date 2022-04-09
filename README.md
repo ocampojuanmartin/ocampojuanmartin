@@ -19,3 +19,4 @@ Some of the proyects i worked in are SPA (Single Page Applications) and an E-com
  ocampojuanmartin40@gmail.com
 
 </p>
+![alt text](https://www.pngkey.com/png/full/162-1627423_mas-software-engineer-hob-vacancy-computer-engineer-cartoon.png)
