@@ -17,7 +17,7 @@ Some of the proyects i worked in are SPA (Single Page Applications) and an E-com
 
  <a href="https://www.linkedin.com/in/juan-martin-ocampo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
  </p>
- <h3> / </h3>
+
  ocampojuanmartin40@gmail.com
 
 
