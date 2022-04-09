@@ -20,6 +20,6 @@ Some of the proyects i worked in are SPA (Single Page Applications) and an E-com
 
 </p>
 
-<img src="https://www.pngkey.com/png/full/162-1627423_mas-software-engineer-hob-vacancy-computer-engineer-cartoon.png" alt="Alt text"  height="300" width="400" title="Optional title">
+<img src="https://toppng.com/public/uploads/thumbnail/dog-icon-infographic-corgi-icon-11553428947rqkl9n9hkp.png" alt="Alt text"  height="300" width="400" title="Optional title">
 
 
