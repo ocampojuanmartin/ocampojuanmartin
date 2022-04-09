@@ -12,9 +12,6 @@ Some of the proyects i worked in are SPA (Single Page Applications) and an E-com
 
 
 <h3 align="left">Do you wish to contact me?:</h3>
-
-<img src="https://www.pngkey.com/png/full/162-1627423_mas-software-engineer-hob-vacancy-computer-engineer-cartoon.png" alt="Alt text" height="300" width="400" title="Optional title">
-
 <p align="left">
  
 
@@ -22,3 +19,7 @@ Some of the proyects i worked in are SPA (Single Page Applications) and an E-com
  ocampojuanmartin40@gmail.com
 
 </p>
+
+<img src="https://www.pngkey.com/png/full/162-1627423_mas-software-engineer-hob-vacancy-computer-engineer-cartoon.png" alt="Alt text" align="right" title="Optional title">
+
+
