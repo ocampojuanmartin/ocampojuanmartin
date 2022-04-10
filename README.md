@@ -4,7 +4,7 @@
 
 A passionate full-stack developer student from Argentina. I am focused on learning new technlogies and expanding my programming knowledge everyday. Welcome!
 
-Skills: REDUX ✔️/ REACT ✔️ / JS ✔️ / HTML ✔️ / CSS ✔️ / NODE ✔️ / SQL ✔️ / MONGODB ✔️
+Skills: REDUX ✔️ REACT ✔️  JS ✔️  HTML ✔️  CSS ✔️  NODE ✔️  SQL ✔️  MONGODB ✔️
 
 - 🔭 I graduated from HENRY where i became a full stack developer.
 Some of the proyects i worked in are SPA (Single Page Applications) and an E-commerce which i will pin below.
