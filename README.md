@@ -25,4 +25,4 @@ Some of the proyects i worked in are SPA (Single Page Applications) and an E-com
  
  </p>
 <p> or you can email me at: </p>
- <h4> ocampojuanmartin40@gmail.com </h4>
+ 📧 <h4> ocampojuanmartin40@gmail.com </h4> 📧
