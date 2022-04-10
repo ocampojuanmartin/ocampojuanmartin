@@ -17,19 +17,11 @@ Some of the proyects i worked in are SPA (Single Page Applications) and an E-com
 
 <img src="https://www.pngkey.com/png/full/162-1627423_mas-software-engineer-hob-vacancy-computer-engineer-cartoon.png" alt="Alt text"   align= right height="300" width="400" title="Optional title">
 
-
-
-
-
-
-
 <h3 align="left">Do you wish to contact me?:</h3>
 <p align="left">
  
 
  <a href="https://www.linkedin.com/in/juan-martin-ocampo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
- 
- <a href="1150024531" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
  
  </p>
 <p> or you can email me at: </p>
