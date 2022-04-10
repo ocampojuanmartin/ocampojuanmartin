@@ -17,7 +17,7 @@ Some of the proyects i worked in are SPA (Single Page Applications) and an E-com
 
 <img src="https://www.pngkey.com/png/full/162-1627423_mas-software-engineer-hob-vacancy-computer-engineer-cartoon.png" alt="Alt text"   align= right height="300" width="400" title="Optional title">
 
-<h3 align="left">Do you wish to contact me?:</h3>
+<h3 align="left"> 🤝Do you wish to contact me?:</h3>
 <p align="left">
  
 
